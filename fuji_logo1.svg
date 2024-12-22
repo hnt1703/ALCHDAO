@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.98 95.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: HelveticaNeue-Bold, 'Helvetica Neue';
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 61.2)"><tspan x="0" y="0">Fuji</tspan></text>
+  <text class="cls-2" transform="translate(0 61.2)"><tspan x="0" y="0">Fuji</tspan></text>
+</svg>

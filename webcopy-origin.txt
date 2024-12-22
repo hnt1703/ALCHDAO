@@ -1,0 +1,204 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.ttf
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.woff2
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.ttf
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2
+File Name: D:\Website\Cyotek\fujiai.net\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.highcharts.com/highcharts.js
+File Name: D:\Website\Cyotek\fujiai.net\highcharts.js
+Content Type: text/javascript
+
+Uri: https://code.highcharts.com/modules/accessibility.js
+File Name: D:\Website\Cyotek\fujiai.net\modules\accessibility.js
+Content Type: text/javascript
+
+Uri: https://code.highcharts.com/modules/sankey.js
+File Name: D:\Website\Cyotek\fujiai.net\modules\sankey.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap
+File Name: D:\Website\Cyotek\fujiai.net\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap
+File Name: D:\Website\Cyotek\fujiai.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+File Name: D:\Website\Cyotek\fujiai.net\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fujiai.net/
+File Name: D:\Website\Cyotek\fujiai.net\index.htm
+Content Type: text/html
+
+Uri: https://fujiai.net/android-chrome-192x192.png
+File Name: D:\Website\Cyotek\fujiai.net\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://fujiai.net/android-chrome-512x512.png
+File Name: D:\Website\Cyotek\fujiai.net\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://fujiai.net/apple-touch-icon.png
+File Name: D:\Website\Cyotek\fujiai.net\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://fujiai.net/bannervision.png
+File Name: D:\Website\Cyotek\fujiai.net\bannervision.png
+Content Type: image/png
+
+Uri: https://fujiai.net/banner_web2.png
+File Name: D:\Website\Cyotek\fujiai.net\banner_web2.png
+Content Type: image/png
+
+Uri: https://fujiai.net/cmc.png
+File Name: D:\Website\Cyotek\fujiai.net\cmc.png
+Content Type: image/png
+
+Uri: https://fujiai.net/favicon-16x16.png
+File Name: D:\Website\Cyotek\fujiai.net\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://fujiai.net/favicon-32x32.png
+File Name: D:\Website\Cyotek\fujiai.net\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://fujiai.net/favicon.ico
+File Name: D:\Website\Cyotek\fujiai.net\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://fujiai.net/fuji.webp
+File Name: D:\Website\Cyotek\fujiai.net\fuji.webp
+Content Type: image/webp
+
+Uri: https://fujiai.net/fuji_banner.png
+File Name: D:\Website\Cyotek\fujiai.net\fuji_banner.png
+Content Type: image/png
+
+Uri: https://fujiai.net/fuji_cursor.png
+File Name: D:\Website\Cyotek\fujiai.net\fuji_cursor.png
+Content Type: image/png
+
+Uri: https://fujiai.net/fuji_logo1.svg
+File Name: D:\Website\Cyotek\fujiai.net\fuji_logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://fujiai.net/fuji_logo2.svg
+File Name: D:\Website\Cyotek\fujiai.net\fuji_logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://fujiai.net/gecko.png
+File Name: D:\Website\Cyotek\fujiai.net\gecko.png
+Content Type: image/png
+
+Uri: https://fujiai.net/icons/1.png
+File Name: D:\Website\Cyotek\fujiai.net\icons\1.png
+Content Type: image/png
+
+Uri: https://fujiai.net/icons/2.png
+File Name: D:\Website\Cyotek\fujiai.net\icons\2.png
+Content Type: image/png
+
+Uri: https://fujiai.net/icons/3.png
+File Name: D:\Website\Cyotek\fujiai.net\icons\3.png
+Content Type: image/png
+
+Uri: https://fujiai.net/script.js
+File Name: D:\Website\Cyotek\fujiai.net\script.js
+Content Type: application/javascript
+
+Uri: https://fujiai.net/site.webmanifest
+File Name: D:\Website\Cyotek\fujiai.net\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://fujiai.net/styles.css
+File Name: D:\Website\Cyotek\fujiai.net\styles.css
+Content Type: text/css
+
+Uri: https://fujiai.net/vision
+File Name: D:\Website\Cyotek\fujiai.net\vision.html
+Content Type: text/html
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: D:\Website\Cyotek\fujiai.net\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: D:\Website\Cyotek\fujiai.net\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-0JPS39LBG8
+File Name: D:\Website\Cyotek\fujiai.net\gtag\js
+Content Type: application/javascript
+
