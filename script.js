@@ -279,7 +279,7 @@ class Rain {
 
 
         const fujiPosition = r(0, row - 5);
-        const word = "ALCHDAO";
+        const word = "AICHDAO";
 
         for (let i = 0; i < row; ++i) {
             let c = new Char();
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const messageContainer = document.createElement('div');
         messageContainer.className = 'matrix-message';
         messageContainer.innerHTML = `
-            <div class="typing-text">Follow ALCHDAO  </div>
+            <div class="typing-text">Follow AICHDAO  </div>
         `;
         effectContainer.appendChild(messageContainer);
 
