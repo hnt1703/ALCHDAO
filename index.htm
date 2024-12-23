@@ -65,10 +65,18 @@
                 <img src="title2.png" alt="Logo Hover" class="logo-img hover" width="120" height="40">
             </div>
             <ul class="nav-links">
-                <li><a href='index.htm'>Home</a></li>
-                <li><a href='vision.html'>Vision</a></li>
+            <li>
+                <button onclick="window.location.href='x.png'" class="custom-cursor" style="background: none; border: none; padding: 0;">
+                <img src="x.png" alt="Vision" class="hover-image" style="width: 50px; height: auto;"> <!-- Kích thước hình ảnh đã được phóng to lên gấp 2 lần -->
+            </button>
+            </li>
+            <li>
+                <button onclick="window.location.href='x.png'" class="custom-cursor" style="background: none; border: none; padding: 0;">
+                    <img src="tg.png" alt="Vision" class="hover-image" style="width: 50px; height: auto;"> <!-- Kích thước hình ảnh đã được phóng to lên gấp 2 lần -->
+                </button>
+            </li>
                 <!-- <li><a href="faq.html">FAQ</a></li> -->
-                <li><a class="join-button" href="https://pump.fun/">Pump.fun</a></li>
+                <li><a class="join-button" href="https://pump.fun/">Pump it</a></li>
             </ul>
             <div class="hamburger">
                 <span></span>
@@ -236,7 +244,30 @@
             });
         </script>
     </footer>
-
+    <script>
+        const createSnowflake = () => {
+            const snowflake = document.createElement('div');
+            snowflake.className = 'snowflake';
+            snowflake.innerHTML = '❄'; // Ký tự bông tuyết
+            document.body.appendChild(snowflake);
+    
+            // Đặt vị trí ngẫu nhiên cho bông tuyết
+            snowflake.style.left = Math.random() * window.innerWidth + 'px';
+            snowflake.style.fontSize = Math.random() * 10 + 10 + 'px'; // Kích thước ngẫu nhiên
+    
+            // Thời gian rơi ngẫu nhiên
+            const fallDuration = Math.random() * 3 + 2; // Từ 2 đến 5 giây
+            snowflake.style.animationDuration = fallDuration + 's';
+    
+            // Xóa bông tuyết sau khi rơi
+            setTimeout(() => {
+                snowflake.remove();
+            }, fallDuration * 1000);
+        };
+    
+        // Tạo bông tuyết mỗi 300ms
+        setInterval(createSnowflake, 300);
+    </script>
     <script src="aos%402.3.1/dist/aos.js"></script>
     <script src="script.js"></script>
 </body>

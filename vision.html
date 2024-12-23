@@ -642,7 +642,30 @@
         </script>
     </footer>
 
-
+    <script>
+        const createSnowflake = () => {
+            const snowflake = document.createElement('div');
+            snowflake.className = 'snowflake';
+            snowflake.innerHTML = '❄'; // Ký tự bông tuyết
+            document.body.appendChild(snowflake);
+    
+            // Đặt vị trí ngẫu nhiên cho bông tuyết
+            snowflake.style.left = Math.random() * window.innerWidth + 'px';
+            snowflake.style.fontSize = Math.random() * 10 + 10 + 'px'; // Kích thước ngẫu nhiên
+    
+            // Thời gian rơi ngẫu nhiên
+            const fallDuration = Math.random() * 3 + 2; // Từ 2 đến 5 giây
+            snowflake.style.animationDuration = fallDuration + 's';
+    
+            // Xóa bông tuyết sau khi rơi
+            setTimeout(() => {
+                snowflake.remove();
+            }, fallDuration * 1000);
+        };
+    
+        // Tạo bông tuyết mỗi 300ms
+        setInterval(createSnowflake, 300);
+    </script>
     <!-- /////////////////////////////////////////////// -->
     <script src="aos%402.3.1/dist/aos.js"></script>
     <script src="script.js"></script>

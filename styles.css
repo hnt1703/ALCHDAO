@@ -120,7 +120,26 @@ body::before {
 }
 
 /* MOONY */
+.hover-image {
+    transition: transform 0.3s ease; /* Thêm hiệu ứng chuyển tiếp */
+}
 
+.hover-image:hover {
+    transform: scale(1.5); /* Phóng to 1.5 lần khi hover */
+}
+
+.join-button {
+    display: inline-block; /* Để áp dụng hiệu ứng chuyển động */
+    animation: shake 1s infinite; /* Thêm hiệu ứng lắc lư */
+}
+
+@keyframes shake {
+    0% { transform: translate(0); }
+    25% { transform: translate(-5px, 0); }
+    50% { transform: translate(5px, 0); }
+    75% { transform: translate(-5px, 0); }
+    100% { transform: translate(0); }
+}
 /* MOONY */
 
 .logo-container {
@@ -3812,3 +3831,25 @@ lesson {
     }
 }
 
+
+.snowflake {
+    position: absolute;
+    top: -10px;
+    color: white; /* Màu của bông tuyết */
+    font-size: 3em; /* Kích thước bông tuyết */
+    pointer-events: none; /* Không cho phép tương tác */
+    animation: fall linear infinite; /* Hiệu ứng rơi */
+}
+
+@keyframes fall {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(100vh); /* Rơi xuống hết chiều cao viewport */
+    }
+}
+
+.custom-cursor {
+    cursor: url('fuji_cursor.png'), auto; /* Đường dẫn đến hình ảnh con chuột */
+}
